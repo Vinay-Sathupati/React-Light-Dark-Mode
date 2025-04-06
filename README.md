@@ -1,4 +1,4 @@
-In this project, let's build a **Light Dark Mode** app by 
+In this project, let's build a **Light Dark Mode** app
 
 ### Refer to the image below:
 
